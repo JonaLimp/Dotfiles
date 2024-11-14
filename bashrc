@@ -118,4 +118,3 @@ eval "$(pyenv virtualenv-init -)"
 
 export EDITOR='vim'
 export VISUAL='vim'
-
