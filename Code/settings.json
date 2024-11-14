@@ -1,0 +1,13 @@
+{
+    "python.testing.pytestEnabled": true,
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.pytestParameters": true,
+    "python.analysis.inlayHints.variableTypes": true,
+    "git.autofetch": true,
+    "editor.rulers": [
+        80
+    ],
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 80
+
+}
