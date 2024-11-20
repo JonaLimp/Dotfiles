@@ -3,3 +3,4 @@
 	name = Jonas Limpert
 [core]
 	editor = vim
+	excludesfile = ~/.gitignore
